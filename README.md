@@ -4,37 +4,37 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 ## Table of Contents
 
-- [Home Consoles](#consoles)
-  - [Fairchild Channel F](#channelf)
-  - [Bally Astrocade](#astrocade)
-  - [Atari 2600](#atari2600)
-  - [APF MP-1000](#apfmp1k)
-  - [Magnavox Odyssey²](#odyssey2)
+- [Home Consoles](#home-consoles)
+  - [Fairchild Channel F](#fairchild-channel-f)
+  - [Bally Astrocade](#ball-yastrocade)
+  - [Atari 2600](#atari-2600)
+  - [APF MP-1000](#apf-mp-1000)
+  - [Magnavox Odyssey²](#Magnavox-Odyssey²)
   - [Intellivision](#intellivision)
   - [ColecoVision](#colecovision)
   - [Vectrex](#vectrex)
-  - [Nintendo Entertainment System / Famicom](#nes)
-  - [Atari 7800](#atari7800)
-  - [Sega Master System](#sms)
-- [Home Computers](#computers)
-  - [Apple I](#apple1)
-  - [Commodore PET](#pet)
+  - [NES](#nes)
+  - [Atari 7800](#atari-7800)
+  - [Sega Master System](#sega-master-system)
+- [Home Computers](#home-computers)
+  - [Apple I](#apple-i)
+  - [Commodore PET](#commodore-pet)
   - [Compucolor](#compucolor)
-  - [TRS-80](#trs80)
-  - [Apple II/II+/IIe](#apple2)
-  - [Atari 400/600/800/XL/XE](#atari8bit)
-  - [TI 99/4](#ti994)
-  - [Commodore VIC-20](#vic20)
+  - [TRS-80](#trs-80)
+  - [Apple II/II+/IIe](#apple-ii)
+  - [Atari 400/600/800/XL/XE](#atari-8-bit)
+  - [TI 99/4](#ti-99-4)
+  - [Commodore VIC-20](#commodore-vic-20)
   - [Acorn Atom/BBC Micro]
   - [Sinclair ZX80/ZX81/ZX Spectrum]
-  - [Commodore 64](#c64)
+  - [Commodore 64](#commodore-64)
   - [MSX](#msx)
-- [Arcade Games](#arcade)
-- [Hardware Design](#hwdesign)
+- [Arcade Games](#arcade-games)
+- [Hardware Design](#hardware-design)
 - [CPUs](#cpus)
   - [6502](#6502)
   - [Z80](#z80)
-- [Programming Tools](#prgtools)
+- [Programming Tools](#programming-tools)
   - [Assemblers](#assemblers)
   - [Compilers](#compilers)
 - [Contributing](#contributing)
@@ -91,7 +91,7 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 * [Sega Game 1000 Specifications](http://www.smspower.org/uploads/Development/sg1000.txt) - by Omar Cornut / Zoop
 
-### Nintendo Entertainment System / Famicom
+### NES
 
 * [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki) - Comprehensive site with NES programming tutorials, reference guides, and homebrew.
 
@@ -134,9 +134,9 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 ### TRS-80
 
-### Apple II/II+/IIe
+### Apple II
 
-### Atari 400/600/800/XL/XE
+### Atari 8-bit
 
 * [ANTIC, GTIA and timing info](https://www.atarimax.com/jindroush.atari.org/atanttim.html)
 
