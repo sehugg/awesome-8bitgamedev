@@ -1,6 +1,6 @@
 # Awesome 8-bit Game Dev
 
-A curated list of awesome resources for 8-bit retro game development, brought to you by [8bitworkshop](https://8bitworkshop.com/).
+A curated list of awesome resources for 8-bit retro game development.
 
 ## Table of Contents
 
@@ -25,8 +25,8 @@ A curated list of awesome resources for 8-bit retro game development, brought to
   - [Atari 400/600/800/XL/XE](#atari-8-bit)
   - [TI 99/4](#ti-99-4)
   - [Commodore VIC-20](#commodore-vic-20)
-  - [Acorn Atom/BBC Micro]
-  - [Sinclair ZX80/ZX81/ZX Spectrum]
+  - [Acorn](#acorn)
+  - [Sinclair](#sinclair)
   - [Commodore 64](#commodore-64)
   - [MSX](#msx)
 - [Arcade Games](#arcade-games)
@@ -34,9 +34,11 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 - [CPUs](#cpus)
   - [6502](#6502)
   - [Z80](#z80)
-- [Programming Tools](#programming-tools)
+- [Development Tools](#development-tools)
   - [Assemblers](#assemblers)
   - [Compilers](#compilers)
+  - [Emulators](#emulators)
+  - [IDEs](#ides)
 - [Contributing](#contributing)
 
 ## Home Consoles
@@ -65,7 +67,10 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 * [TIA Hardware Notes](http://www.atarihq.com/danb/files/TIA_HW_Notes.txt) - A detailed analysis of the TIA chip by Andrew Towers.
 
-* [Kirk Israel's 2600 Programming Page](https://alienbill.com/2600/) - A bunch of links by a 2600 homebrew developer. Also see his [2600 Cookbook](http://alienbill.com/2600/cookbook/).
+* [Kirk Israel's 2600 Programming Page](https://alienbill.com/2600/) - A bunch of links by a 2600 homebrew developer. Also see his [2600 Cookbook](http://alienbill.com/2600/cookbook/),
+[webTune2600](http://alienbill.com/2600/basic/music/tune2600.html),
+and
+[playfieldpal](http://alienbill.com/2600/playfieldpal.html) tools
 
 * [Random Terrain 2600 Page](https://www.randomterrain.com/atari-2600-memories.html) - Includes [Atari 2600 Programming for Newbies](https://www.randomterrain.com/atari-2600-memories-tutorial-andrew-davie-01.html), batariBasic info, programming tools, and much more.
 
@@ -156,9 +161,19 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 ### Commodore VIC-20
 
-### Acorn Atom/BBC Micro
+### Acorn
 
-### Sinclair ZX80/ZX81/ZX Spectrum
+* [The BBC and Master Computer Public Domain Library](http://8bs.com/) and [8-Bit Acorn Webring](http://8bs.com/webring.htm) (Webrings still exist?!?)
+
+* [Acorn Atom Technical Manual](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Acorn_AtomTechnicalManual.pdf) (PDF)
+
+### Sinclair
+
+* [World of Spectrum](http://www.worldofspectrum.org/) - The official world archive for the Sinclair ZX Spectrum and the largest on-line gaming center on the Internet (*Yup, I think the site's great - Cliff Lawson*)
+
+* [16K/48K ZX Spectrum Reference](http://www.worldofspectrum.org/faq/reference/48kreference.htm#ZXSpectrum) and [128K](http://www.worldofspectrum.org/faq/reference/128kreference.htm)
+
+* [How to Write ZX Spectrum Games](https://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/) - Converting a simple BASIC program to Z80, by Jonathan Cauldwell
 
 ### Commodore 64
 
@@ -212,7 +227,11 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 
 ### Z80
 
-## Programming Tools
+## Development Tools
+
+### IDEs
+
+* [8bitworkshop](https://8bitworkshop.com/) - An online batteries-included IDE targeting home consoles, home computers, arcade games, and Verilog hardware design.
 
 ## Open-Source BIOSs
 
@@ -225,16 +244,6 @@ A curated list of awesome resources for 8-bit retro game development, brought to
 ## Misc.
 
 * [Lou's Psuedo-3D Page](http://www.extentofthejam.com/pseudo/) - How to draw 3-D roads
-
-http://www.bjars.com/resources.html
-
-http://www.bjars.com/disassemblies.html
-
-http://atariage.com/forums/topic/199249-video-life-without-flicker-how/
-
-http://alienbill.com/2600/basic/music/tune2600.html
-
-http://alienbill.com/2600/playfieldpal.html
 
 ## Contributing
 
