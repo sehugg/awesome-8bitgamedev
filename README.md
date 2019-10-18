@@ -110,6 +110,8 @@ and
 
 * [Mega Cat Studios](https://megacatstudios.com/blogs/press/tagged/nes-graphics) - Some good blog posts about efficiently managing NES graphics assets.
 
+* [Nerdy Nights](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155) NES programming tutorials
+
 ### Atari 7800
 
 * [Atari 7800 (Dan Boris)](https://atarihq.com/danb/a7800.shtml) - System Specs, Cartridge Information, Links, The 'Encryption' Issue, Technical Files, and more.
@@ -203,6 +205,8 @@ and
 
 * [VDP Programming Tutorial](http://map.grauw.nl/articles/vdp_tut.php) - Examples of programming the TMS9918A/v9938/v9958 from Z80 assembly language.
 
+* [awesome-msx](https://github.com/fr3nd/awesome-msx) - an awesome list about MSX!
+
 ## Arcade Games
 
 * [Computer Archeology](http://www.computerarcheology.com/Arcade/) - Investigating Asteroids, Crazy Climber, Defender, Frogger (Sound), Galaga, Moon Patrol, Omega Race, Space Invaders, Time Pilot (Sound) and the [Asteroids Digital Vector Generator](http://www.computerarcheology.com/Arcade/Asteroids/DVG.html)
@@ -229,9 +233,35 @@ and
 
 ## Development Tools
 
+### Compilers
+
+* [CC65](https://cc65.github.io/) - a C compiler, linker, and assembler for 6502 machines. Targets Commodore, Apple II, Atari 8-bit, NES, and more.
+
+* [SDCC](https://sourceforge.net/p/sdcc/wiki/z80/) - Small Device C Compiler and toolchain. Targets Z80 and Gameboy Z80, among others.
+
+* [z88dk](https://www.z88dk.org/forum/) - A Z80 C and assembly toolchain.
+There are two C compilers supported (sccz80 and sdcc), two independent C libraries included (the classic and new), an assembler/linker/librarian (z80asm), and a data compression tool (zx7).
+Targets over 80 different machine families.
+
+* [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - A 6809 cross-compiler for a subset of the C language. Depends on the [LWTOOLS](http://www.lwtools.ca/) toolchain.
+
+### Assemblers
+
+* [DASM](https://dasm-assembler.github.io/) - a versatile macro assembler with support for several 8-bit microprocessors including MOS 6502 & 6507, Motorola 6803, 68705 & 68HC11, Hitachi HD6303 (extended Motorola 6801), and Fairchild F8. Used most often for Atari 2600 development.
+
+* [NESASM3](https://github.com/camsaul/nesasm) - The O.G. NESasm assembler for NES 6502 assembly.
+
+* [ASM6](https://github.com/freem/asm6f) - 6502 assembler primarily targeted at NES/Famicom development.
+
+* [zmac](https://github.com/sehugg/zmac) - Macro cross-assembler for the Zilog Z80 microprocessor, sometimes used for Astrocade development.
+
 ### IDEs
 
 * [8bitworkshop](https://8bitworkshop.com/) - An online batteries-included IDE targeting home consoles, home computers, arcade games, and Verilog hardware design.
+
+* [WUDSN](http://www.wudsn.com/index.php/ide) - a free integrated Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64 and NES development plugin for Eclipse
+
+* [NESICIDE](https://github.com/christopherpow/nesicide) - multiplatform IDE for NES, includes FamiTracker support.
 
 ## Open-Source BIOSs
 
