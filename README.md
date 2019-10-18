@@ -39,6 +39,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Compilers](#compilers)
   - [Emulators](#emulators)
   - [IDEs](#ides)
+- [Books](#books)
 - [Contributing](#contributing)
 
 ## Home Consoles
@@ -79,6 +80,12 @@ and
 ### AFP MP-1000
 
 * [AFP MP-1000 Programming](https://orphanedgames.com/APF/index.html) - AFP/6800 programming tools for Windows, and documentation.
+
+### Intellivision
+
+* [jsintv](http://spatula-city.org/~im14u2c/intv/) - Portable Intellivision emulator and programming tools
+
+* [IntyBASIC](https://nanochess.org/intybasic.html) - a BASIC compiler for Intellivision
 
 ### ColecoVision
 
@@ -263,6 +270,8 @@ Targets over 80 different machine families.
 
 * [NESICIDE](https://github.com/christopherpow/nesicide) - multiplatform IDE for NES, includes FamiTracker support.
 
+* [CBM prg Studio](https://www.c64-wiki.com/wiki/CBM_prg_Studio) - Free C64 IDE for Windows written with C# and VB.NET.
+
 ## Open-Source BIOSs
 
 * [http://a2go.applearchives.com/roms/](apple][go) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
@@ -270,6 +279,12 @@ Targets over 80 different machine families.
 * [https://github.com/MEGA65/open-roms](open-roms) - A project to create unencumbered open-source ROMs for use on selected retro computers
 
 * [http://cbios.sourceforge.net/](CBIOS) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
+
+## Books
+
+* [8bitworkshop Books](https://www.amazon.com/s?k=8bitworkshop) - Books that go along with the [8bitworkshop IDE](https://8bitworkshop.com/): "Making Games for the Atari 2600", "Making 8-bit Arcade Games in C", "Making Games for the NES", and "Designing Video Game Hardware in Verilog"
+
+* [Retro Game Dev: C64 Edition](https://www.amazon.com/Retro-Game-Dev-Derek-Morris/dp/0692980652/ref=sr_1_1?keywords=c64+game+dev&qid=1571357742&sr=8-1) - Using modern tools, this introductory book guides you through all the elements required to make two mini games: a space shooter and a platformer, and run them on an emulator or real C64 hardware. Uses CBM prg Studio (Windows IDE)
 
 ## Misc.
 
