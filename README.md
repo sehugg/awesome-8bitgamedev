@@ -291,6 +291,8 @@ Targets over 80 different machine families.
 
 * [CBM prg Studio](https://www.c64-wiki.com/wiki/CBM_prg_Studio) - Free C64 IDE for Windows written with C# and VB.NET.
 
+* [Turbo Rascal SE](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - A Pascal -> DASM compiler for 6502/68000 computers -- the C64, C128, VIC-20, PLUS4, NES, PET and Amiga 500.
+
 ## Open-Source BIOSs
 
 * [http://a2go.applearchives.com/roms/](apple][go) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
