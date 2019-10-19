@@ -19,7 +19,6 @@ A curated list of awesome resources for 8-bit retro game development.
 - [Home Computers](#home-computers)
   - [Apple I](#apple-i)
   - [Commodore PET](#commodore-pet)
-  - [Compucolor](#compucolor)
   - [TRS-80](#trs-80)
   - [Apple II/II+/IIe](#apple-ii)
   - [Atari 400/600/800/XL/XE](#atari-8-bit)
@@ -144,11 +143,15 @@ and
 
 ### Commodore PET
 
-### Compucolor
+* [Commodore PET Programming Model](http://www.6502.org/users/andre/petindex/progmod.html) - The PET's memory map.
 
 ### TRS-80
 
 ### Apple II
+
+* [The Big PEEKs, POKEs and CALLs list](http://apple2.org.za/gswv/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/texts/pokes.html) - Compiled by Edhel Iaur, Esq.
+
+* [HIRES Graphics on Apple II](https://www.xtof.info/blog/?p=768) - Detailed explanation of the Apple II's convoluted graphics scheme, including the [Rgb2Hires](https://github.com/Pixinn/Rgb2Hires) conversion utility.
 
 ### Atari 8-bit
 
@@ -234,9 +237,15 @@ and
 
 * [6502.org Tutorials](http://www.6502.org/tutorials/)
 
+* [6502 instruction set](https://www.masswerk.at/6502/6502_instruction_set.html)
+
 * [NesDev 6502 optimizations](https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations) and (synthetic instructions)https://wiki.nesdev.com/w/index.php/Synthetic_instructions)
 
 ### Z80
+
+* Z80 Heaven - [Tutorials](http://z80-heaven.wikidot.com/system:tutorials) and [instruction set](http://z80-heaven.wikidot.com/instructions-set)
+
+* [Z80 instruction set] - Searchable table
 
 ## Development Tools
 
@@ -261,6 +270,16 @@ Targets over 80 different machine families.
 * [ASM6](https://github.com/freem/asm6f) - 6502 assembler primarily targeted at NES/Famicom development.
 
 * [zmac](https://github.com/sehugg/zmac) - Macro cross-assembler for the Zilog Z80 microprocessor, sometimes used for Astrocade development.
+
+### Emulators
+
+* [MAMEDev.org](https://www.mamedev.org/) - Home of the MAME/ MESS mega-emulator.
+
+* [Stella](https://stella-emu.github.io/) - A multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL).
+
+* [Mesen](https://www.mesen.ca/) - A high-accuracy NES and Famicom emulator and NSF player for Windows and Linux.
+
+* [VICE](http://vice-emu.sourceforge.net/) - The Versatile Commodore Emulator.
 
 ### IDEs
 
