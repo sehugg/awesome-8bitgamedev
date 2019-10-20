@@ -89,7 +89,7 @@ and
 
 ### ColecoVision
 
-* [ColecoVision Tech Info](http://www.atarihq.com/danb/files/CV-Tech.txt) and [Sound Info(http://www.atarihq.com/danb/files/CV-Sound.txt).
+* [ColecoVision Tech Info](http://www.atarihq.com/danb/files/CV-Tech.txt) and [Sound Info](http://www.atarihq.com/danb/files/CV-Sound.txt).
 
 * Philipp Klaus Krause's [tutorial](http://www.colecovision.eu/ColecoVision/development/tutorial1.shtml) on using [libCV](http://www.colecovision.eu/ColecoVision/development/libcv.shtml) to develop games in C using SDCC. Also includes graphics conversion and compression tools.
 
@@ -246,7 +246,7 @@ and
 
 * Z80 Heaven - [Tutorials](http://z80-heaven.wikidot.com/system:tutorials) and [instruction set](http://z80-heaven.wikidot.com/instructions-set)
 
-* [Z80 instruction set] - Searchable table
+* [Z80 instruction set](http://clrhome.org/table/) - Searchable table
 
 ## Development Tools
 
