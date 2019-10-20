@@ -39,6 +39,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Emulators](#emulators)
   - [IDEs](#ides)
 - [Books](#books)
+- [Community](#community)
 - [Contributing](#contributing)
 
 ## Home Consoles
@@ -239,7 +240,7 @@ and
 
 * [6502 instruction set](https://www.masswerk.at/6502/6502_instruction_set.html)
 
-* [NesDev 6502 optimizations](https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations) and (synthetic instructions)https://wiki.nesdev.com/w/index.php/Synthetic_instructions)
+* [NesDev 6502 optimizations](https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations) and [synthetic instructions](https://wiki.nesdev.com/w/index.php/Synthetic_instructions)
 
 ### Z80
 
@@ -295,17 +296,25 @@ Targets over 80 different machine families.
 
 ## Open-Source BIOSs
 
-* [http://a2go.applearchives.com/roms/](apple][go) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
+* [apple2go](http://a2go.applearchives.com/roms/) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
 
-* [https://github.com/MEGA65/open-roms](open-roms) - A project to create unencumbered open-source ROMs for use on selected retro computers
+* [open-roms](https://github.com/MEGA65/open-roms) - A project to create unencumbered open-source ROMs for use on selected retro computers
 
-* [http://cbios.sourceforge.net/](CBIOS) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
+* [CBIOS](http://cbios.sourceforge.net/) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
 
 ## Books
 
 * [8bitworkshop Books](https://www.amazon.com/s?k=8bitworkshop) - Books that go along with the [8bitworkshop IDE](https://8bitworkshop.com/): "Making Games for the Atari 2600", "Making 8-bit Arcade Games in C", "Making Games for the NES", and "Designing Video Game Hardware in Verilog"
 
 * [Retro Game Dev: C64 Edition](https://www.amazon.com/Retro-Game-Dev-Derek-Morris/dp/0692980652/ref=sr_1_1?keywords=c64+game+dev&qid=1571357742&sr=8-1) - Using modern tools, this introductory book guides you through all the elements required to make two mini games: a space shooter and a platformer, and run them on an emulator or real C64 hardware. Uses CBM prg Studio (Windows IDE)
+
+## Community
+
+* [AtariAge Forums](https://atariage.com/forums/) - Lots of active [programming forums](https://atariage.com/forums/forum/42-game-programming/) for 2600, 5200, 7800, Lynx, Jaguar, ColecoVision, Intellivision, TI-99/4A, homebrew, hacks and more.
+
+* [NesDev Forums](https://forums.nesdev.com/) - Discussion of NES/Famicom programming, emulation, graphics, music, and more.
+
+* [SMS Power Forums](http://www.smspower.org/forums/) - Discussion of all things SEGA!
 
 ## Misc.
 
