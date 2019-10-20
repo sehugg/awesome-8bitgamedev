@@ -29,10 +29,11 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Commodore 64](#commodore-64)
   - [MSX](#msx)
 - [Arcade Games](#arcade-games)
-- [Hardware Design](#hardware-design)
-- [CPUs](#cpus)
+- [Hardware](#hardware)
   - [6502](#6502)
   - [Z80](#z80)
+  - [TMS9918A](#tms9918A)
+  - [FPGA](#fpga)
 - [Development Tools](#development-tools)
   - [Assemblers](#assemblers)
   - [Compilers](#compilers)
@@ -93,11 +94,7 @@ and
 
 * Philipp Klaus Krause's [tutorial](http://www.colecovision.eu/ColecoVision/development/tutorial1.shtml) on using [libCV](http://www.colecovision.eu/ColecoVision/development/libcv.shtml) to develop games in C using SDCC. Also includes graphics conversion and compression tools.
 
-* [Texas Instruments TMS9918A VDP](http://bifi.msxnet.org/msxnet//tech/tms9918a.txt) info by Sean Young. Also see [here](http://www.unige.ch/medecine/nouspikel/ti99/tms9918a.htm).
-
 * [ColecoVision.dk](http://www.colecovision.dk/tools.htm) - Tools and homebrew source code.
-
-* [Convert9918](https://github.com/tursilion/convert9918) - (Windows) This program can convert most modern graphics into a form compatible with the TMS9918A bitmap mode.
 
 ### Sega SG-1000
 
@@ -214,8 +211,6 @@ and
 
 * [The MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book/blob/master/the_msx_red_book.md) - The aim of this book is to provide a description of the standard MSX hardware and software at a level of detail sufficient to satisfy that most demanding of users, the machine code programmer.
 
-* [VDP Programming Tutorial](http://map.grauw.nl/articles/vdp_tut.php) - Examples of programming the TMS9918A/v9938/v9958 from Z80 assembly language.
-
 * [awesome-msx](https://github.com/fr3nd/awesome-msx) - an awesome list about MSX!
 
 ## Arcade Games
@@ -228,11 +223,7 @@ and
 
 * [Sean Riddle's Williams Game Hardware Info](http://seanriddle.com/willhard.html)
 
-## Hardware Design
-
-* [Apple2fpga: Reconstructing an Apple II+ on an FPGA](http://www.cs.columbia.edu/~sedwards/apple2fpga/)
-
-## CPUs
+## Hardware
 
 ### 6502
 
@@ -247,6 +238,18 @@ and
 * Z80 Heaven - [Tutorials](http://z80-heaven.wikidot.com/system:tutorials) and [instruction set](http://z80-heaven.wikidot.com/instructions-set)
 
 * [Z80 instruction set](http://clrhome.org/table/) - Searchable table
+
+### TMS9918A
+
+* [Texas Instruments TMS9918A VDP](http://bifi.msxnet.org/msxnet//tech/tms9918a.txt) info by Sean Young. Also see [here](http://www.unige.ch/medecine/nouspikel/ti99/tms9918a.htm).
+
+* [VDP Programming Tutorial](http://map.grauw.nl/articles/vdp_tut.php) - Examples of programming the TMS9918A/v9938/v9958 from Z80 assembly language on the MSX.
+
+* [Convert9918](https://github.com/tursilion/convert9918) - (Windows) This program can convert most modern graphics into a form compatible with the TMS9918A bitmap mode.
+
+### FPGA
+
+* [Apple2fpga: Reconstructing an Apple II+ on an FPGA](http://www.cs.columbia.edu/~sedwards/apple2fpga/)
 
 ## Development Tools
 
