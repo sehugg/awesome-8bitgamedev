@@ -33,7 +33,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [6502](#6502)
   - [Z80](#z80)
   - [TMS9918A](#tms9918A)
-  - [FPGA](#fpga)
+  - [FPGA/HDL](#fpga-hdl)
 - [Development Tools](#development-tools)
   - [Assemblers](#assemblers)
   - [Compilers](#compilers)
@@ -251,9 +251,17 @@ and
 
 * [Convert9918](https://github.com/tursilion/convert9918) - (Windows) This program can convert most modern graphics into a form compatible with the TMS9918A bitmap mode.
 
-### FPGA
+### AY-3-8910
+
+* [AY-3-8910 Datasheet](http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf) - Datasheet for the programmable sound generator.
+
+### FPGA/HDL
+
+* [ATARI PONG E CIRCUIT ANALYSIS & LAWN TENNIS: BUILDING A DIGITAL VIDEO GAME WITH 74 SERIES TTL IC’s.](http://www.pong-story.com/LAWN_TENNIS.pdf) (PDF) - A detailed analysis of the PONG circuits by Dr. H. Holden.
 
 * [Apple2fpga: Reconstructing an Apple II+ on an FPGA](http://www.cs.columbia.edu/~sedwards/apple2fpga/)
+
+* [fpga-examples](https://github.com/sehugg/fpga-examples) - These are some of the Verilog examples from the book "Designing Video Game Hardware in Verilog" ported to CRT monitor timing and tested against the IceStorm tools.
 
 ## Development Tools
 
