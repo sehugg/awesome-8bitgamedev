@@ -96,6 +96,10 @@ and
 
 * [ColecoVision.dk](http://www.colecovision.dk/tools.htm) - Tools and homebrew source code.
 
+## Vectrex
+
+* [Setting up a modern toolchain for Vectrex development with CMOC](https://vandenbran.de/2016/02/01/a-modern-toolchain-for-vectrex-development/)
+
 ### Sega SG-1000
 
 * [Sega Game 1000 Specifications](http://www.smspower.org/uploads/Development/sg1000.txt) - by Omar Cornut / Zoop
