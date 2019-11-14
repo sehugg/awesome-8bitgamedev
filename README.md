@@ -251,6 +251,8 @@ and
 
 * [Convert9918](https://github.com/tursilion/convert9918) - (Windows) This program can convert most modern graphics into a form compatible with the TMS9918A bitmap mode.
 
+* [High-Resolution Sprite-Oriented Color Graphics](http://www.classiccmp.org/cini/pdf/byte/Hi-Res%20Graphics%20TMS9918%20BYTE%200882.pdf.pdf) - Ciarcia's Circuit Cellar column in August 1982 BYTE Magazine about the TMS9918.
+
 ### AY-3-8910
 
 * [AY-3-8910 Datasheet](http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf) - Datasheet for the programmable sound generator.
