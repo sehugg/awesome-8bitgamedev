@@ -39,6 +39,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Compilers](#compilers)
   - [Emulators](#emulators)
   - [IDEs](#ides)
+  - [Graphics](#graphics)
 - [Books](#books)
 - [Community](#community)
 - [Contributing](#contributing)
@@ -205,6 +206,10 @@ and
 
 * [Reading the C64 Keyboard](https://codebase64.org/doku.php?id=base:reading_the_keyboard) and [How the C64 Keyboard Works](http://www.c64os.com/post/?p=45)
 
+* [Ultimate C64 Reference](https://www.pagetable.com/c64ref/c64mem/)
+
+* [C64 Memory Maps](http://unusedino.de/ec64/technical/project64/memory_maps.html)
+
 ### MSX
 
 * [MSX Wiki](https://www.msx.org/wiki/)
@@ -310,6 +315,14 @@ Targets over 80 different machine families.
 * [CBM prg Studio](https://www.c64-wiki.com/wiki/CBM_prg_Studio) - Free C64 IDE for Windows written with C# and VB.NET.
 
 * [Turbo Rascal SE](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - A Pascal -> DASM compiler for 6502/68000 computers -- the C64, C128, VIC-20, PLUS4, NES, PET and Amiga 500.
+
+### Graphics
+
+* [Dithertron](https://8bitworkshop.com/dithertron/) - From 8bitworkshop. Downsamples/reduces/converts images into many different retro formats, with lots of tweaking options.
+
+* [mcDRAW](https://mcdraw.xyz/) - Cool online bitmap editor for C-64.
+
+* [retropixels](https://www.npmjs.com/package/retropixels) - A command-line tool and library that converts to C-64 format.
 
 ## Open-Source BIOSs
 
