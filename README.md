@@ -284,6 +284,8 @@ Targets over 80 different machine families.
 
 * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - A 6809 cross-compiler for a subset of the C language. Depends on the [LWTOOLS](http://www.lwtools.ca/) toolchain.
 
+* [batariBASIC](https://github.com/batari-Basic/batari-Basic) - BASIC programming for Atari 2600 systems.
+
 ### Assemblers
 
 * [DASM](https://dasm-assembler.github.io/) - a versatile macro assembler with support for several 8-bit microprocessors including MOS 6502 & 6507, Motorola 6803, 68705 & 68HC11, Hitachi HD6303 (extended Motorola 6801), and Fairchild F8. Used most often for Atari 2600 development.
@@ -298,11 +300,21 @@ Targets over 80 different machine families.
 
 * [MAMEDev.org](https://www.mamedev.org/) - Home of the MAME/ MESS mega-emulator.
 
+* [Javatari](https://javatari.org/) - Atari 2600 emulator in JavaScript.
+
+* [JSNES](https://jsnes.org/) - NES emulator in JavaScript.
+
 * [Stella](https://stella-emu.github.io/) - A multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL).
 
 * [Mesen](https://www.mesen.ca/) - A high-accuracy NES and Famicom emulator and NSF player for Windows and Linux.
 
 * [VICE](http://vice-emu.sourceforge.net/) - The Versatile Commodore Emulator.
+
+* https://github.com/floooh/chips - Portable C emulation library for C64, CPC and other microcomputers.
+
+* [jsvecx](http://www.twitchasylum.com/jsvecx/) - Vectrex emulator in JavaScript.
+
+* [Altirra](http://www.virtualdub.org/altirra.html) - Atari 8-bit family emulator, includes compatible open-source ROM.
 
 ### IDEs
 
@@ -331,6 +343,8 @@ Targets over 80 different machine families.
 * [open-roms](https://github.com/MEGA65/open-roms) - A project to create unencumbered open-source ROMs for use on selected retro computers
 
 * [CBIOS](http://cbios.sourceforge.net/) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
+
+* [SEBasic](https://www.pledgebank.com/opense) - Open source ZX Spectrum BIOS with BASIC.
 
 ## Books
 
