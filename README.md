@@ -364,6 +364,8 @@ Targets over 80 different machine families.
 
 * [Lou's Psuedo-3D Page](http://www.extentofthejam.com/pseudo/) - How to draw 3-D roads
 
+* [8bit-tools](https://github.com/sehugg/8bit-tools/) - Command-line tools that go along with 8bitworkshop books
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
