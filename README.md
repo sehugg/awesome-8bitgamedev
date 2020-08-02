@@ -328,6 +328,8 @@ Targets over 80 different machine families.
 
 * [Turbo Rascal SE](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - A Pascal -> DASM compiler for 6502/68000 computers -- the C64, C128, VIC-20, PLUS4, NES, PET and Amiga 500.
 
+* [BASIC8](https://paladin-t.github.io/b8/) - A fantasy console supporting a BASIC-like language.
+
 ### Graphics
 
 * [Dithertron](https://8bitworkshop.com/dithertron/) - From 8bitworkshop. Downsamples/reduces/converts images into many different retro formats, with lots of tweaking options.
