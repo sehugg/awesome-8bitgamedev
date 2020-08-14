@@ -216,7 +216,7 @@ and
 
 * [MSX Assembly Page](http://map.grauw.nl/)
 
-* [Konamiman's MSX page](https://www.konamiman.com/msx/msx-e.html)
+* [Konamiman's MSX page](https://github.com/Konamiman/MSX2-Technical-Handbook)
 
 * [The MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book/blob/master/the_msx_red_book.md) - The aim of this book is to provide a description of the standard MSX hardware and software at a level of detail sufficient to satisfy that most demanding of users, the machine code programmer.
 
