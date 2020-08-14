@@ -355,15 +355,13 @@ Targets over 80 different machine families.
 
 * [ECMA-55 Minimal BASIC Compiler to x86](https://buraphakit.sourceforge.io/BASIC.shtml)
 
-* [David Ahl's BASIC Computer Games](https://www.atariarchives.org/basicgames/)
-
-* [More Games](http://www.dunnington.info/public/basicgames/)
+* [David Ahl's BASIC Computer Games](https://www.atariarchives.org/basicgames/), [more games](http://www.dunnington.info/public/basicgames/)
 
 * [People's Computer Company Archive](https://www.computerhistory.org/collections/catalog/102661095)
 
 * [Dartmouth Time Sharing System Emulator](http://www.dtss.org/dtss/)
 
-* BASIC Manuals - [4th Edition](http://www.bitsavers.org/pdf/dartmouth/BASIC_4th_Edition_Jan68.pdf), [OS/8](https://www.grc.com/pdp-8/docs/OS8_BASIC_Reference.pdf), [EduSystem](http://bitsavers.informatik.uni-stuttgart.de/pdf/dec/pdp8/tss8/EduSystemHandbookJan73.pdf), [ECMA-55 (Minimal BASIC)](https://buraphakit.sourceforge.io/ECMA-55.TXT.LPR), [BASIC-80](https://altairclone.com/downloads/manuals/Microsoft%20BASIC-80.pdf), [Altair 8800 BASIC 4.1](http://vtda.org/docs/computing/MITS/MITS_Altair8800Basic4.1Reference_April1977.pdf), [HP2000](http://bitsavers.org/pdf/hp/2000TSB/22687-90001_AccessBasic9-75.pdf)
+* BASIC Manuals - [4th Edition](http://www.bitsavers.org/pdf/dartmouth/BASIC_4th_Edition_Jan68.pdf), [OS/8](https://www.grc.com/pdp-8/docs/OS8_BASIC_Reference.pdf), [EduSystem](http://bitsavers.informatik.uni-stuttgart.de/pdf/dec/pdp8/tss8/EduSystemHandbookJan73.pdf), [ECMA-55 (Minimal BASIC)](https://buraphakit.sourceforge.io/ECMA-55.TXT.LPR), [BASIC-80](https://altairclone.com/downloads/manuals/Microsoft%20BASIC-80.pdf), [Altair 8800 BASIC 4.1](http://vtda.org/docs/computing/MITS/MITS_Altair8800Basic4.1Reference_April1977.pdf), [HP2000](http://bitsavers.org/pdf/hp/2000TSB/22687-90001_AccessBasic9-75.pdf), [BASIC-PLUS](https://ia801901.us.archive.org/17/items/bitsavers_decpdp11rsSICPLUSLangManOct72_10455777/DEC-11-ORBPA-A-D_BASIC-PLUS_LangMan_Oct72.pdf)
 
 
 ## Books
