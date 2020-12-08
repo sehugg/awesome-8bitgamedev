@@ -122,6 +122,8 @@ and
 
 * [Nerdy Nights](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155) NES programming tutorials
 
+* [FamiStudio](https://famistudio.org/) - NES Music Editor
+
 ### Atari 7800
 
 * [Atari 7800 (Dan Boris)](https://atarihq.com/danb/a7800.shtml) - System Specs, Cartridge Information, Links, The 'Encryption' Issue, Technical Files, and more.
