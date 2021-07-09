@@ -380,7 +380,7 @@ Targets over 80 different machine families.
 
 * [SMS Power Forums](http://www.smspower.org/forums/) - Discussion of all things SEGA!
 
-* [Lemon64](https://www.lemon64.com/forum/index.php) - Forums for the C-64 scene.
+* [Lemon64](https://www.lemon64.com/forum/index.php) and [EverythingC64](https://everythingc64.boards.net/) - Forums for the C-64 scene.
 
 ## Misc.
 
