@@ -175,6 +175,8 @@ and
 
 * [Atari 5200 Memory Map](http://atariage.com/forums/topic/169971-5200-memory-map/)
 
+* [Player/Missile Podcast Tutorials](https://playermissile.com/index.html#tutorials)
+
 ### TI 99/4
 
 ### Commodore VIC-20
@@ -350,6 +352,8 @@ Targets over 80 different machine families.
 * [CBIOS](http://cbios.sourceforge.net/) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
 
 * [SEBasic](https://www.pledgebank.com/opense) - Open source ZX Spectrum BIOS with BASIC.
+
+* [Altirra](https://www.virtualdub.org/altirra.html) - Contains Atari 8-bit compatible ROM and BASIC interpreter.
 
 ## BASIC
 
