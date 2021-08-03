@@ -40,6 +40,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Emulators](#emulators)
   - [IDEs](#ides)
   - [Graphics](#graphics)
+  - [Libraries](#libraries)
 - [BASIC Programming](#basic)
 - [Books](#books)
 - [Community](#community)
@@ -342,6 +343,10 @@ Targets over 80 different machine families.
 * [mcDRAW](https://mcdraw.xyz/) - Cool online bitmap editor for C-64.
 
 * [retropixels](https://www.npmjs.com/package/retropixels) - A command-line tool and library that converts to C-64 format.
+
+### Libraries
+
+* [CROSS-LIB](https://github.com/Fabrizio-Caruso/CROSS-LIB) - Cross platform game library for several 8/16/32-bit computers.
 
 ## Open-Source BIOSs
 
