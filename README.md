@@ -28,6 +28,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Sinclair](#sinclair)
   - [Commodore 64](#commodore-64)
   - [MSX](#msx)
+  - [Amstrad CPC](#cpc)
 - [Arcade Games](#arcade-games)
 - [Hardware](#hardware)
   - [6502](#6502)
@@ -227,6 +228,10 @@ and
 * [The MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book/blob/master/the_msx_red_book.md) - The aim of this book is to provide a description of the standard MSX hardware and software at a level of detail sufficient to satisfy that most demanding of users, the machine code programmer.
 
 * [awesome-msx](https://github.com/fr3nd/awesome-msx) - an awesome list about MSX!
+
+### CPC
+
+* [cpctelera](https://github.com/lronaldo/cpctelera) - Amstrad CPC game engine for C and Assembler developers, integrated into 8bitworkshop
 
 ## Arcade Games
 
