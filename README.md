@@ -179,6 +179,8 @@ and
 
 * [Player/Missile Podcast Tutorials](https://playermissile.com/index.html#tutorials)
 
+* [Altirra Hardware Reference Manual](https://www.virtualdub.org/downloads/Altirra%20Hardware%20Reference%20Manual.pdf)
+
 ### TI 99/4
 
 ### Commodore VIC-20
