@@ -255,6 +255,8 @@ and
 
 * [NesDev 6502 optimizations](https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations) and [synthetic instructions](https://wiki.nesdev.com/w/index.php/Synthetic_instructions)
 
+* [6502/6510 Maths](https://codebase64.org/doku.php?id=base:6502_6510_maths)
+
 ### Z80
 
 * Z80 Heaven - [Tutorials](http://z80-heaven.wikidot.com/system:tutorials) and [instruction set](http://z80-heaven.wikidot.com/instructions-set)
