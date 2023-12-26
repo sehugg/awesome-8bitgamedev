@@ -33,8 +33,9 @@ A curated list of awesome resources for 8-bit retro game development.
 - [Hardware](#hardware)
   - [6502](#6502)
   - [Z80](#z80)
-  - [TMS9918A](#tms9918A)
+  - [TMS9918A](#tms9918a)
   - [FPGA/HDL](#fpga-hdl)
+  - [Microcontrollers](#microcontrollers)
 - [Development Tools](#development-tools)
   - [Assemblers](#assemblers)
   - [Compilers](#compilers)
@@ -284,6 +285,10 @@ and
 * [Apple2fpga: Reconstructing an Apple II+ on an FPGA](http://www.cs.columbia.edu/~sedwards/apple2fpga/)
 
 * [fpga-examples](https://github.com/sehugg/fpga-examples) - These are some of the Verilog examples from the book "Designing Video Game Hardware in Verilog" ported to CRT monitor timing and tested against the IceStorm tools.
+
+### Microcontrollers
+
+* [Uzebox](https://uzebox.org/) - An open-source micro game platform based on the ATmega644 chip.
 
 ## Development Tools
 
