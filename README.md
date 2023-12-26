@@ -83,6 +83,8 @@ and
 
 * [BJARS Atari Archives](http://www.bjars.com/) - Steve Engelhardt's site full of homebrew, hacks, online tools, references, and disassembled code.
 
+* [Stellerator](https://6502ts.github.io/typedoc/stellerator-embedded/) - An online Atari 2600 emulator.
+
 ### AFP MP-1000
 
 * [AFP MP-1000 Programming](https://orphanedgames.com/APF/index.html) - AFP/6800 programming tools for Windows, and documentation.
@@ -126,6 +128,8 @@ and
 * [Nerdy Nights](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155) NES programming tutorials
 
 * [FamiStudio](https://famistudio.org/) - NES Music Editor
+  
+* [NESFab](https://pubby.games/nesfab.html) - A NES-specific programming language with advanced 6502 optimizations and automatic bank placement.
 
 ### Atari 7800
 
@@ -135,6 +139,8 @@ and
 
 * [Atari 7800 Programming Wiki](https://sites.google.com/site/atari7800wiki/) - This site is intended to be a reference for the Atari 7800 Programming mailing list, with information culled from the mailing list archives and other sources (i.e. Atari Age forums)
 
+* [CC7800](https://github.com/steux/cc7800) - A C-inspired compiler for the Atari 7800.
+ 
 ### Sega Master System
 
 * [SMS Power](http://www.smspower.org/Development/Index) - This area is dedicated to studying, programming, hacking of Sega 8-bit hardware and software.
@@ -305,6 +311,8 @@ Targets over 80 different machine families.
 * [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - A 6809 cross-compiler for a subset of the C language. Depends on the [LWTOOLS](http://www.lwtools.ca/) toolchain.
 
 * [batariBASIC](https://github.com/batari-Basic/batari-Basic) - BASIC programming for Atari 2600 systems.
+
+* [LLVM-MOS SDK](https://github.com/llvm-mos/llvm-mos-sdk) - A clang-based compiler/SDK for 6502 systems.
 
 ### Assemblers
 
