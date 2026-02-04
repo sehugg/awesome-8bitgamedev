@@ -328,6 +328,8 @@ Targets over 80 different machine families.
 
 ### Emulators
 
+* [n01d-timemachine](https://github.com/bad-antics/n01d-timemachine) - Unified classic computing launcher with ROM management, artwork scraping, and RetroArch integration for C64, Amiga, ZX Spectrum, Atari, DOS, and Apple II.
+
 * [MAMEDev.org](https://www.mamedev.org/) - Home of the MAME/ MESS mega-emulator.
 
 * [Javatari](https://javatari.org/) - Atari 2600 emulator in JavaScript.
