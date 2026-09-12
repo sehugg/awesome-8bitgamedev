@@ -6,7 +6,7 @@ A curated list of awesome resources for 8-bit retro game development.
 
 - [Home Consoles](#home-consoles)
   - [Fairchild Channel F](#fairchild-channel-f)
-  - [Bally Astrocade](#ball-yastrocade)
+  - [Bally Astrocade](#bally-astrocade)
   - [Atari 2600](#atari-2600)
   - [APF MP-1000](#apf-mp-1000)
   - [Magnavox Odyssey²](#Magnavox-Odyssey²)
