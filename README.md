@@ -133,6 +133,8 @@ and
   
 * [NESFab](https://pubby.games/nesfab.html) - A NES-specific programming language with advanced 6502 optimizations and automatic bank placement.
 
+* [hash-bench-nes](https://github.com/dmang-dev/hash-bench-nes) - Hash-algorithm benchmark ROM that times 18 cryptographic and non-cryptographic hashes (CRC, MD5, SHA-1, etc.) on the 6502, displaying ms/iter on screen. Built with cc65; NROM (mapper 0).
+
 ### Atari 7800
 
 * [Atari 7800 (Dan Boris)](https://atarihq.com/danb/a7800.shtml) - System Specs, Cartridge Information, Links, The 'Encryption' Issue, Technical Files, and more.
