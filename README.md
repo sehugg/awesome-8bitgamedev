@@ -59,11 +59,11 @@ A curated list of awesome resources for 8-bit retro game development.
 
 ### Fairchild Channel F
 
-* [VES Wiki](http://channelf.se/veswiki/index.php?title=Main_Page) and [tutorial](http://channelf.se/veswiki/index.php?title=Tutorial:Beginner%27s_Guide_to_the_Channel_F)
+* [VES Wiki](https://channelf.se/veswiki/index.php?title=Main_Page) and [tutorial](https://channelf.se/veswiki/index.php?title=Tutorial:Beginner%27s_Guide_to_the_Channel_F)
 
-* [Sean Riddle's Channel F Info](http://seanriddle.com/chanfinfo.html) including a homebrew Tetris clone
+* [Sean Riddle's Channel F Info](https://seanriddle.com/chanfinfo.html) including a homebrew Tetris clone
 
-* [Fairchild F8 Info](http://www.nyx.net/~lturner/public_html/Fairchild_F8.html) and [instruction set](http://www.nyx.net/~lturner/public_html/F8_ins.html)
+* [Fairchild F8 Info](https://www.nyx.net/~lturner/public_html/Fairchild_F8.html) and [instruction set](https://www.nyx.net/~lturner/public_html/F8_ins.html)
 
 ### Bally Astrocade
 
@@ -77,18 +77,18 @@ A curated list of awesome resources for 8-bit retro game development.
 
 * [Stella Programmer's Guide](https://alienbill.com/2600/101/docs/stella.html) - The official guide to programming the Atari 2600, from Atari employee Steve Wright. 
 
-* [Atari 2600 Advanced Programming Guide](http://www.qotile.net/minidig/docs/2600_advanced_prog_guide.txt) - Paul Slocum compiled this list of Atari 2600 programming techniques, including an HMOVE timing chart.  Also see this [list of tricks](http://www.qotile.net/minidig/tricks.html).
+* [Atari 2600 Advanced Programming Guide](https://www.qotile.net/minidig/docs/2600_advanced_prog_guide.txt) - Paul Slocum compiled this list of Atari 2600 programming techniques, including an HMOVE timing chart.  Also see this [list of tricks](https://www.qotile.net/minidig/tricks.html).
 
-* [TIA Hardware Notes](http://www.atarihq.com/danb/files/TIA_HW_Notes.txt) - A detailed analysis of the TIA chip by Andrew Towers.
+* [TIA Hardware Notes](https://www.atarihq.com/danb/files/TIA_HW_Notes.txt) - A detailed analysis of the TIA chip by Andrew Towers.
 
-* [Kirk Israel's 2600 Programming Page](https://alienbill.com/2600/) - A bunch of links by a 2600 homebrew developer. Also see his [2600 Cookbook](http://alienbill.com/2600/cookbook/),
-[webTune2600](http://alienbill.com/2600/basic/music/tune2600.html),
+* [Kirk Israel's 2600 Programming Page](https://alienbill.com/2600/) - A bunch of links by a 2600 homebrew developer. Also see his [2600 Cookbook](https://alienbill.com/2600/cookbook/),
+[webTune2600](https://alienbill.com/2600/basic/music/tune2600.html),
 and
-[playfieldpal](http://alienbill.com/2600/playfieldpal.html) tools
+[playfieldpal](https://alienbill.com/2600/playfieldpal.html) tools
 
 * [Random Terrain 2600 Page](https://www.randomterrain.com/atari-2600-memories.html) - Includes [Atari 2600 Programming for Newbies](https://www.randomterrain.com/atari-2600-memories-tutorial-andrew-davie-01.html), batariBasic info, programming tools, and much more.
 
-* [BJARS Atari Archives](http://www.bjars.com/) - Steve Engelhardt's site full of homebrew, hacks, online tools, references, and disassembled code.
+* [BJARS Atari Archives](https://web.archive.org/web/20230926210554/http://bjars.com/) - Steve Engelhardt's site full of homebrew, hacks, online tools, references, and disassembled code.
 
 * [Stellerator](https://6502ts.github.io/typedoc/stellerator-embedded/) - An online Atari 2600 emulator.
 
@@ -100,8 +100,6 @@ and
 
 * [Dan B's Odyssey 2 Tech Page](https://atarihq.com/danb/o2.shtml) - Hardware information, including the [Odyssey 2 Technical Specs](https://atarihq.com/danb/files/o2doc.pdf) (PDF).
 
-* [Videopac Tech Info](https://home.kpn.nl/rene_g7400/vp_info.html) - Hardware and programming information for the Philips Videopac.
-
 * [AtariAge Odyssey 2 Programming Thread](https://forums.atariage.com/topic/130697-odyssey-2-programming/) - Starting point for programming the Intel 8048 and 8244 VDC.
 
 ### Intellivision
@@ -112,35 +110,35 @@ and
 
 ### ColecoVision
 
-* [ColecoVision Tech Info](http://www.atarihq.com/danb/files/CV-Tech.txt) and [Sound Info](http://www.atarihq.com/danb/files/CV-Sound.txt).
+* [ColecoVision Tech Info](https://www.atarihq.com/danb/files/CV-Tech.txt) and [Sound Info](https://www.atarihq.com/danb/files/CV-Sound.txt).
 
 * Philipp Klaus Krause's [tutorial](http://www.colecovision.eu/ColecoVision/development/tutorial1.shtml) on using [libCV](http://www.colecovision.eu/ColecoVision/development/libcv.shtml) to develop games in C using SDCC. Also includes graphics conversion and compression tools.
 
-* [ColecoVision.dk](http://www.colecovision.dk/tools.htm) - Tools and homebrew source code.
+* [ColecoVision.dk](https://www.colecovision.dk/tools.htm) - Tools and homebrew source code.
 
 ## Vectrex
 
-* [Setting up a modern toolchain for Vectrex development with CMOC](https://vandenbran.de/2016/02/01/a-modern-toolchain-for-vectrex-development/)
+* [Setting up a modern toolchain for Vectrex development with CMOC](https://optixx.org/2019/11/02/a-modern-toolchain-for-vectrex-development/)
 
 ### Sega SG-1000
 
-* [Sega Game 1000 Specifications](http://www.smspower.org/uploads/Development/sg1000.txt) - by Omar Cornut / Zoop
+* [Sega Game 1000 Specifications](https://www.smspower.org/uploads/Development/sg1000.txt) - by Omar Cornut / Zoop
 
 ### NES
 
-* [NesDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki) - Comprehensive site with NES programming tutorials, reference guides, and homebrew.
+* [NesDev Wiki](https://www.nesdev.org/wiki/Nesdev_Wiki) - Comprehensive site with NES programming tutorials, reference guides, and homebrew.
 
 * [Shiru's Stuff](https://shiru.untergrund.net/software.shtml) - Shiru has lots of NES programming tools, and the article [programming NES games in C](https://shiru.untergrund.net/articles/programming_nes_games_in_c.htm).
 
-* [Dustmop's NES Graphics](http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/) - Describes NES graphics in detail.
+* [Dustmop's NES Graphics](https://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/) - Describes NES graphics in detail.
 
 * [nesdoug](https://nesdoug.com/) - Step-by-step tutorial on making a NES game in C.
 
-* [Lizard NES](http://lizardnes.com/) - Homebrew game with a great development blog.
+* [Lizard NES](https://lizardnes.com/) - Homebrew game with a great development blog.
 
-* [Mega Cat Studios](https://megacatstudios.com/blogs/press/tagged/nes-graphics) - Some good blog posts about efficiently managing NES graphics assets.
+* [Mega Cat Studios](https://megacatstudios.com/blogs/retro-development/organizing-nes-graphics-banks) - Some good blog posts about efficiently managing NES graphics assets.
 
-* [Nerdy Nights](http://nintendoage.com/auth/forum/messageview.cfm?catid=22&threadid=7155) NES programming tutorials
+* [Nerdy Nights](https://fuzzytek.net/articles/nerdynights/) NES programming tutorials
 
 * [Famicom Party](https://famicom.party/book/) - Making NES Games in Assembly (book, in progress)
 
@@ -150,7 +148,7 @@ and
 
 ### Atari 5200
 
-* [Dan B's Atari 5200 Page](http://www.atarihq.com/danb/a5200.shtml) - System specs, technical documentation, and links.
+* [Dan B's Atari 5200 Page](https://www.atarihq.com/danb/a5200.shtml) - System specs, technical documentation, and links.
 
 * [Atari 5200 Programmers](https://atariage.com/programmer_list.php?SystemID=5200) - AtariAge's list of 5200 programmers and games.
 
@@ -160,7 +158,7 @@ and
 
 * [Atari 7800 (Dan Boris)](https://atarihq.com/danb/a7800.shtml) - System Specs, Cartridge Information, Links, The 'Encryption' Issue, Technical Files, and more.
 
-* [Atari 7800 Software Guide](http://7800.8bitdev.org/index.php/7800_Software_Guide) - 7800 hardware description, registers, DMA timing, and more.
+* [Atari 7800 Software Guide](https://7800.8bitdev.org/index.php/7800_Software_Guide) - 7800 hardware description, registers, DMA timing, and more.
 
 * [Atari 7800 Programming Wiki](https://sites.google.com/site/atari7800wiki/) - This site is intended to be a reference for the Atari 7800 Programming mailing list, with information culled from the mailing list archives and other sources (i.e. Atari Age forums)
 
@@ -168,10 +166,10 @@ and
  
 ### Sega Master System
 
-* [SMS Power](http://www.smspower.org/Development/Index) - This area is dedicated to studying, programming, hacking of Sega 8-bit hardware and software.
-[Technical info](http://www.smspower.org/uploads/Development/richard.txt), 
-[VDP info](http://www.smspower.org/uploads/Development/msvdp-20021112.txt),
-[SN76489 sound chip info](http://www.smspower.org/uploads/Development/SN76489-20030421.txt)
+* [SMS Power](https://www.smspower.org/Development/Index) - This area is dedicated to studying, programming, hacking of Sega 8-bit hardware and software.
+[Technical info](https://www.smspower.org/uploads/Development/richard.txt), 
+[VDP info](https://www.smspower.org/uploads/Development/msvdp-20021112.txt),
+[SN76489 sound chip info](https://www.smspower.org/uploads/Development/SN76489-20030421.txt)
 
 * [devkitSMS](https://github.com/sverx/devkitSMS) - C libraries and tools for SDCC targeting the Master System, Game Gear, SG-1000, SC-3000, and ColecoVision.
 
@@ -207,13 +205,13 @@ and
 
 ### Commodore PET
 
-* [Commodore PET Programming Model](http://www.6502.org/users/andre/petindex/progmod.html) - The PET's memory map.
+* [Commodore PET Programming Model](https://6502.org/users/andre/petindex/progmod.html) - The PET's memory map.
 
 ### TRS-80
 
 ### Apple II
 
-* [The Big PEEKs, POKEs and CALLs list](http://apple2.org.za/gswv/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/texts/pokes.html) - Compiled by Edhel Iaur, Esq.
+* [The Big PEEKs, POKEs and CALLs list](https://apple2.org.za/gswv/USA2WUG/FOUNDING.MEMBERS/HOME.PAGES/EDHEL/texts/pokes.html) - Compiled by Edhel Iaur, Esq.
 
 * [HIRES Graphics on Apple II](https://www.xtof.info/blog/?p=768) - Detailed explanation of the Apple II's convoluted graphics scheme, including the [Rgb2Hires](https://github.com/Pixinn/Rgb2Hires) conversion utility.
 
@@ -221,13 +219,13 @@ and
 
 * [ANTIC, GTIA and timing info](https://www.atarimax.com/jindroush.atari.org/atanttim.html)
 
-* [Reverse engineering Atari 8-bit video](http://www.virtualdub.org/blog/pivot/entry.php?id=243)
+* [Reverse engineering Atari 8-bit video](https://www.virtualdub.org/blog/pivot/entry.php?id=243)
 
 * [ANTIC Timings](http://www.beipmu.com/Antic_Timings.txt)
 
 * [ANTIC Registers](https://user.xmission.com/~trevin/atari/antic_regs.html) and [Instructions](https://user.xmission.com/~trevin/atari/antic_insns.html); [GTIA Registers](https://user.xmission.com/~trevin/atari/gtia_regs.html)
 
-* [TRANSPORTING ATARI COMPUTER PROGRAMS TO THE ATARI 5200](http://www.atarimuseum.com/videogames/consoles/5200/conv_to_5200.html) - A.N.A.L.O.G. #15, January 1984
+* [TRANSPORTING ATARI COMPUTER PROGRAMS TO THE ATARI 5200](https://www.atarimuseum.com/videogames/consoles/5200/conv_to_5200.html) - A.N.A.L.O.G. #15, January 1984
 
 * [Atari Cartridge Images](https://github.com/dmlloyd/atari800/blob/master/DOC/cart.txt)
 
@@ -243,9 +241,9 @@ and
 
 ### Acorn
 
-* [The BBC and Master Computer Public Domain Library](http://8bs.com/) and [8-Bit Acorn Webring](http://8bs.com/webring.htm) (Webrings still exist?!?)
+* [The BBC and Master Computer Public Domain Library](https://8bs.com/) and [8-Bit Acorn Webring](https://8bs.com/webring.htm) (Webrings still exist?!?)
 
-* [Acorn Atom Technical Manual](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Acorn_AtomTechnicalManual.pdf) (PDF)
+* [Acorn Atom Technical Manual](https://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Acorn_AtomTechnicalManual.pdf) (PDF)
 
 ### Oric
 
@@ -263,9 +261,9 @@ and
 
 ### Sinclair
 
-* [World of Spectrum](http://www.worldofspectrum.org/) - The official world archive for the Sinclair ZX Spectrum and the largest on-line gaming center on the Internet (*Yup, I think the site's great - Cliff Lawson*)
+* [World of Spectrum](https://www.worldofspectrum.org/) - The official world archive for the Sinclair ZX Spectrum and the largest on-line gaming center on the Internet (*Yup, I think the site's great - Cliff Lawson*)
 
-* [16K/48K ZX Spectrum Reference](http://www.worldofspectrum.org/faq/reference/48kreference.htm#ZXSpectrum) and [128K](http://www.worldofspectrum.org/faq/reference/128kreference.htm)
+* [16K/48K ZX Spectrum Reference](https://www.worldofspectrum.org/faq/reference/48kreference.htm#ZXSpectrum) and [128K](https://www.worldofspectrum.org/faq/reference/128kreference.htm)
 
 * [How to Write ZX Spectrum Games](https://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/) - Converting a simple BASIC program to Z80, by Jonathan Cauldwell
 
@@ -275,17 +273,17 @@ and
 
 * [Codebase64](https://codebase64.net/) - Wiki of C64 programming articles, source code, and hardware documentation.
 
-* [C64 Programmer's Reference Guide](http://www.zimmers.net/cbmpics/cbm/c64/c64prg.txt)
+* [C64 Programmer's Reference Guide](https://www.zimmers.net/cbmpics/cbm/c64/c64prg.txt)
 
-* [The MOS 6567/6569 video controller (VIC-II)](http://www.zimmers.net/cbmpics/cbm/c64/vic-ii.txt)
+* [The MOS 6567/6569 video controller (VIC-II)](https://www.zimmers.net/cbmpics/cbm/c64/vic-ii.txt)
 
-* [C64 Memory Map](http://sta.c64.org/cbm64mem.html)
+* [C64 Memory Map](https://sta.c64.org/cbm64mem.html)
 
-* [accurately reproducing the Video Output of a Commodore C64](http://hitmen.c02.at/temp/palstuff/)
+* [accurately reproducing the Video Output of a Commodore C64](https://hitmen.c02.at/temp/palstuff/)
 
 * [The CIA 6526](https://www.c64-wiki.com/wiki/CIA)
 
-* [Reading the C64 Keyboard](https://codebase64.org/doku.php?id=base:reading_the_keyboard) and [How the C64 Keyboard Works](http://www.c64os.com/post/?p=45)
+* [Reading the C64 Keyboard](https://codebase64.net/doku.php?id=base:reading_the_keyboard) and [How the C64 Keyboard Works](https://www.c64os.com/post/?p=45)
 
 * [Ultimate C64 Reference](https://www.pagetable.com/c64ref/c64mem/)
 
@@ -297,7 +295,7 @@ and
 
 * [MSX Wiki](https://www.msx.org/wiki/)
 
-* [MSX Assembly Page](http://map.grauw.nl/)
+* [MSX Assembly Page](https://map.grauw.nl/)
 
 * [Konamiman's MSX page](https://github.com/Konamiman/MSX2-Technical-Handbook)
 
@@ -311,51 +309,51 @@ and
 
 ## Arcade Games
 
-* [Computer Archeology](http://www.computerarcheology.com/Arcade/) - Investigating Asteroids, Crazy Climber, Defender, Frogger (Sound), Galaga, Moon Patrol, Omega Race, Space Invaders, Time Pilot (Sound) and the [Asteroids Digital Vector Generator](http://www.computerarcheology.com/Arcade/Asteroids/DVG.html)
+* [Computer Archeology](https://www.computerarcheology.com/Arcade/) - Investigating Asteroids, Crazy Climber, Defender, Frogger (Sound), Galaga, Moon Patrol, Omega Race, Space Invaders, Time Pilot (Sound) and the [Asteroids Digital Vector Generator](https://www.computerarcheology.com/Arcade/Asteroids/DVG.html)
 
-* [Programming the Atari XY Vector Generator](http://arcarc.xmission.com/Tech/neilw_xy.txt)
+* [Programming the Atari XY Vector Generator](https://arcarc.xmission.com/Tech/neilw_xy.txt)
 
 * Jed Margolin's [The Secret Life of Vector Generators](https://www.jmargolin.com/vgens/vgens.htm) and [The Secret Life of XY Monitors](https://www.jmargolin.com/xy/xymon.htm)
 
-* [Sean Riddle's Williams Game Hardware Info](http://seanriddle.com/willhard.html)
+* [Sean Riddle's Williams Game Hardware Info](https://seanriddle.com/willhard.html)
 
 ## Hardware
 
 ### 6502
 
-* [6502.org Tutorials](http://www.6502.org/tutorials/)
+* [6502.org Tutorials](https://6502.org/tutorials/)
 
 * [6502 instruction set](https://www.masswerk.at/6502/6502_instruction_set.html)
 
-* [NesDev 6502 optimizations](https://wiki.nesdev.com/w/index.php/6502_assembly_optimisations) and [synthetic instructions](https://wiki.nesdev.com/w/index.php/Synthetic_instructions)
+* [NesDev 6502 optimizations](https://www.nesdev.org/wiki/6502_assembly_optimisations) and [synthetic instructions](https://www.nesdev.org/wiki/Synthetic_instructions)
 
-* [6502/6510 Maths](https://codebase64.org/doku.php?id=base:6502_6510_maths)
+* [6502/6510 Maths](https://codebase64.net/doku.php?id=base:6502_6510_maths)
 
 ### Z80
 
-* Z80 Heaven - [Tutorials](http://z80-heaven.wikidot.com/system:tutorials) and [instruction set](http://z80-heaven.wikidot.com/instructions-set)
+* Z80 Heaven - [Tutorials](https://z80-heaven.wikidot.com/system:tutorials) and [instruction set](https://z80-heaven.wikidot.com/instructions-set)
 
-* [Z80 instruction set](http://clrhome.org/table/) - Searchable table
+* [Z80 instruction set](https://clrhome.org/table/) - Searchable table
 
 ### TMS9918A
 
-* [Texas Instruments TMS9918A VDP](http://bifi.msxnet.org/msxnet//tech/tms9918a.txt) info by Sean Young. Also see [here](http://www.unige.ch/medecine/nouspikel/ti99/tms9918a.htm).
+* [Texas Instruments TMS9918A VDP](http://bifi.msxnet.org/msxnet//tech/tms9918a.txt) info by Sean Young. Also see [here](https://www.unige.ch/medecine/nouspikel/ti99/tms9918a.htm).
 
-* [VDP Programming Tutorial](http://map.grauw.nl/articles/vdp_tut.php) - Examples of programming the TMS9918A/v9938/v9958 from Z80 assembly language on the MSX.
+* [VDP Programming Tutorial](https://map.grauw.nl/articles/vdp_tut.php) - Examples of programming the TMS9918A/v9938/v9958 from Z80 assembly language on the MSX.
 
 * [Convert9918](https://github.com/tursilion/convert9918) - (Windows) This program can convert most modern graphics into a form compatible with the TMS9918A bitmap mode.
 
-* [High-Resolution Sprite-Oriented Color Graphics](http://www.classiccmp.org/cini/pdf/byte/Hi-Res%20Graphics%20TMS9918%20BYTE%200882.pdf.pdf) - Ciarcia's Circuit Cellar column in August 1982 BYTE Magazine about the TMS9918.
+* [High-Resolution Sprite-Oriented Color Graphics](https://www.classiccmp.org/cini/pdf/byte/Hi-Res%20Graphics%20TMS9918%20BYTE%200882.pdf.pdf) - Ciarcia's Circuit Cellar column in August 1982 BYTE Magazine about the TMS9918.
 
 ### AY-3-8910
 
-* [AY-3-8910 Datasheet](http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf) - Datasheet for the programmable sound generator.
+* [AY-3-8910 Datasheet](https://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf) - Datasheet for the programmable sound generator.
 
 ### FPGA/HDL
 
-* [ATARI PONG E CIRCUIT ANALYSIS & LAWN TENNIS: BUILDING A DIGITAL VIDEO GAME WITH 74 SERIES TTL IC’s.](http://www.pong-story.com/LAWN_TENNIS.pdf) (PDF) - A detailed analysis of the PONG circuits by Dr. H. Holden.
+* [ATARI PONG E CIRCUIT ANALYSIS & LAWN TENNIS: BUILDING A DIGITAL VIDEO GAME WITH 74 SERIES TTL IC’s.](https://www.pong-story.com/LAWN_TENNIS.pdf) (PDF) - A detailed analysis of the PONG circuits by Dr. H. Holden.
 
-* [Apple2fpga: Reconstructing an Apple II+ on an FPGA](http://www.cs.columbia.edu/~sedwards/apple2fpga/)
+* [Apple2fpga: Reconstructing an Apple II+ on an FPGA](https://www.cs.columbia.edu/~sedwards/apple2fpga/)
 
 * [fpga-examples](https://github.com/sehugg/fpga-examples) - These are some of the Verilog examples from the book "Designing Video Game Hardware in Verilog" ported to CRT monitor timing and tested against the IceStorm tools.
 
@@ -379,7 +377,7 @@ and
 There are two C compilers supported (sccz80 and sdcc), two independent C libraries included (the classic and new), an assembler/linker/librarian (z80asm), and a data compression tool (zx7).
 Targets over 80 different machine families.
 
-* [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - A 6809 cross-compiler for a subset of the C language. Depends on the [LWTOOLS](http://www.lwtools.ca/) toolchain.
+* [CMOC](https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - A 6809 cross-compiler for a subset of the C language. Depends on the [LWTOOLS](https://www.lwtools.ca/) toolchain.
 
 * [batariBASIC](https://github.com/batari-Basic/batari-Basic) - BASIC programming for Atari 2600 systems.
 
@@ -409,7 +407,7 @@ Targets over 80 different machine families.
 
 * [zmac](https://github.com/sehugg/zmac) - Macro cross-assembler for the Zilog Z80 microprocessor, sometimes used for Astrocade development.
 
-* [Kick Assembler](http://theweb.dk/KickAssembler/) - A Java-based 6502/6510 assembler for the C64 with macros, scripting, and graphics conversion helpers.
+* [Kick Assembler](https://theweb.dk/KickAssembler/) - A Java-based 6502/6510 assembler for the C64 with macros, scripting, and graphics conversion helpers.
 
 * [MADS](https://github.com/tebe6502/Mad-Assembler) - A multi-pass 6502/65816 cross-assembler used mostly for Atari 8-bit development.
 
@@ -435,13 +433,13 @@ Targets over 80 different machine families.
 
 * [Mesen](https://www.mesen.ca/) - A high-accuracy NES and Famicom emulator and NSF player for Windows and Linux.
 
-* [VICE](http://vice-emu.sourceforge.net/) - The Versatile Commodore Emulator.
+* [VICE](https://vice-emu.sourceforge.net/) - The Versatile Commodore Emulator.
 
 * https://github.com/floooh/chips - Portable C emulation library for C64, CPC and other microcomputers.
 
-* [jsvecx](http://www.twitchasylum.com/jsvecx/) - Vectrex emulator in JavaScript.
+* [jsvecx](https://www.twitchasylum.com/jsvecx/) - Vectrex emulator in JavaScript.
 
-* [Altirra](http://www.virtualdub.org/altirra.html) - Atari 8-bit family emulator, includes compatible open-source ROM.
+* [Altirra](https://www.virtualdub.org/altirra.html) - Atari 8-bit family emulator, includes compatible open-source ROM.
 
 * [JSSpeccy 2](https://github.com/gasman/jsspeccy2) - ZX Spectrum emulator in JavaScript.
 
@@ -455,7 +453,7 @@ Targets over 80 different machine families.
 
 * [8bitworkshop for VS Code](https://marketplace.visualstudio.com/items?itemName=8bitworkshop.8bitworkshop) - The 8bitworkshop IDE as a VS Code extension, with bundled toolchains, emulators, and a debugger.
 
-* [WUDSN](http://www.wudsn.com/index.php/ide) - a free integrated Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64 and NES development plugin for Eclipse
+* [WUDSN](https://www.wudsn.com/index.php/ide) - a free integrated Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64 and NES development plugin for Eclipse
 
 * [NESICIDE](https://github.com/christopherpow/nesicide) - multiplatform IDE for NES, includes FamiTracker support.
 
@@ -489,13 +487,12 @@ Targets over 80 different machine families.
 
 ## Open-Source BIOSs
 
-* [apple2go](http://a2go.applearchives.com/roms/) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
+* [apple2go](https://a2go.applearchives.com/roms/) - The Apple\]\[Go ROM is a public domain Apple \]\[ replacement ROM that is capable of running most games not requiring Applesoft. This ROM was written in 2006 by Marc Ressl specifically for use with the Apple\]\[Go Emulator
 
 * [open-roms](https://github.com/MEGA65/open-roms) - A project to create unencumbered open-source ROMs for use on selected retro computers
 
-* [CBIOS](http://cbios.sourceforge.net/) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
+* [CBIOS](https://cbios.sourceforge.net/) - A BSD-licensed MSX BIOS written from scratch by BouKiCHi (no cassette/disk/BASIC yet)
 
-* [SEBasic](https://www.pledgebank.com/opense) - Open source ZX Spectrum BIOS with BASIC.
 
 * [Altirra](https://www.virtualdub.org/altirra.html) - Contains Atari 8-bit compatible ROM and BASIC interpreter.
 
@@ -511,7 +508,7 @@ Targets over 80 different machine families.
 
 * [Dartmouth Time Sharing System Emulator](http://www.dtss.org/dtss/)
 
-* BASIC Manuals - [4th Edition](http://www.bitsavers.org/pdf/dartmouth/BASIC_4th_Edition_Jan68.pdf), [OS/8](https://www.grc.com/pdp-8/docs/OS8_BASIC_Reference.pdf), [EduSystem](http://bitsavers.informatik.uni-stuttgart.de/pdf/dec/pdp8/tss8/EduSystemHandbookJan73.pdf), [ECMA-55 (Minimal BASIC)](https://buraphakit.sourceforge.io/ECMA-55.TXT.LPR), [BASIC-80](https://altairclone.com/downloads/manuals/Microsoft%20BASIC-80.pdf), [Altair 8800 BASIC 4.1](http://vtda.org/docs/computing/MITS/MITS_Altair8800Basic4.1Reference_April1977.pdf), [HP2000](http://bitsavers.org/pdf/hp/2000TSB/22687-90001_AccessBasic9-75.pdf), [BASIC-PLUS](https://ia801901.us.archive.org/17/items/bitsavers_decpdp11rsSICPLUSLangManOct72_10455777/DEC-11-ORBPA-A-D_BASIC-PLUS_LangMan_Oct72.pdf)
+* BASIC Manuals - [4th Edition](https://www.bitsavers.org/pdf/dartmouth/dtss/196801_BASIC_4th_Edition.pdf), [OS/8](https://www.grc.com/pdp-8/docs/OS8_BASIC_Reference.pdf), [EduSystem](https://www.bitsavers.org/pdf/dec/pdp8/tss8/EduSystem_Handbook_197301.pdf), [ECMA-55 (Minimal BASIC)](https://buraphakit.sourceforge.io/ECMA-55.TXT.LPR), [BASIC-80](https://altairclone.com/downloads/manuals/Microsoft%20BASIC-80.pdf), [Altair 8800 BASIC 4.1](https://vtda.org/docs/computing/MITS/MITS_Altair8800Basic4.1Reference_April1977.pdf), [HP2000](https://bitsavers.org/pdf/hp/2000TSB/22687-90001_AccessBasic9-75.pdf), [BASIC-PLUS](https://ia801901.us.archive.org/17/items/bitsavers_decpdp11rsSICPLUSLangManOct72_10455777/DEC-11-ORBPA-A-D_BASIC-PLUS_LangMan_Oct72.pdf)
 
 
 ## Books
@@ -524,15 +521,17 @@ Targets over 80 different machine families.
 
 * [AtariAge Forums](https://atariage.com/forums/) - Lots of active [programming forums](https://atariage.com/forums/forum/42-game-programming/) for 2600, 5200, 7800, Lynx, Jaguar, ColecoVision, Intellivision, TI-99/4A, homebrew, hacks and more.
 
-* [NesDev Forums](https://forums.nesdev.com/) - Discussion of NES/Famicom programming, emulation, graphics, music, and more.
+* [NesDev Forums](https://forums.nesdev.org/) - Discussion of NES/Famicom programming, emulation, graphics, music, and more.
 
-* [SMS Power Forums](http://www.smspower.org/forums/) - Discussion of all things SEGA!
+* [SMS Power Forums](https://www.smspower.org/forums/) - Discussion of all things SEGA!
 
 * [Lemon64](https://www.lemon64.com/forum/index.php) and [EverythingC64](https://everythingc64.boards.net/) - Forums for the C-64 scene.
 
 ## Misc.
 
-* [Lou's Psuedo-3D Page](http://www.extentofthejam.com/pseudo/) - How to draw 3-D roads
+* [The Digital Antiquarian](https://www.filfre.net/) - Jimmy Maher's blog on the history of computer games and the platforms they ran on
+
+* [Lou's Psuedo-3D Page](https://www.extentofthejam.com/pseudo/) - How to draw 3-D roads
 
 * [8bit-tools](https://github.com/sehugg/8bit-tools/) - Command-line tools that go along with 8bitworkshop books
 
