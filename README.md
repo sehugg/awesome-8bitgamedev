@@ -228,6 +228,8 @@ and
 
 * [C64 Memory Maps](http://unusedino.de/ec64/technical/project64/memory_maps.html)
 
+* [TinyBubbles](https://github.com/SPixs/TinyBubbles) - Open-source 4 KB C64 game in 6502 assembly, with a write-up of its size tricks (autostart via the stack, raster IRQ, SID noise as RNG).
+
 ### MSX
 
 * [MSX Wiki](https://www.msx.org/wiki/)
