@@ -14,8 +14,12 @@ A curated list of awesome resources for 8-bit retro game development.
   - [ColecoVision](#colecovision)
   - [Vectrex](#vectrex)
   - [NES](#nes)
+  - [Atari 5200](#atari-5200)
   - [Atari 7800](#atari-7800)
   - [Sega Master System](#sega-master-system)
+  - [Game Boy](#game-boy)
+  - [PC Engine](#pc-engine)
+  - [Atari Lynx](#atari-lynx)
 - [Home Computers](#home-computers)
   - [Apple I](#apple-i)
   - [Commodore PET](#commodore-pet)
@@ -25,6 +29,8 @@ A curated list of awesome resources for 8-bit retro game development.
   - [TI 99/4](#ti-99-4)
   - [Commodore VIC-20](#commodore-vic-20)
   - [Acorn](#acorn)
+  - [Oric](#oric)
+  - [TRS-80 CoCo and Dragon](#trs-80-coco-and-dragon)
   - [Sinclair](#sinclair)
   - [Commodore 64](#commodore-64)
   - [MSX](#msx)
@@ -42,6 +48,7 @@ A curated list of awesome resources for 8-bit retro game development.
   - [Emulators](#emulators)
   - [IDEs](#ides)
   - [Graphics](#graphics)
+  - [Music and Sound](#music-and-sound)
   - [Libraries](#libraries)
 - [BASIC Programming](#basic)
 - [Books](#books)
@@ -89,6 +96,14 @@ and
 
 * [AFP MP-1000 Programming](https://orphanedgames.com/APF/index.html) - AFP/6800 programming tools for Windows, and documentation.
 
+### Magnavox Odyssey²
+
+* [Dan B's Odyssey 2 Tech Page](https://atarihq.com/danb/o2.shtml) - Hardware information, including the [Odyssey 2 Technical Specs](https://atarihq.com/danb/files/o2doc.pdf) (PDF).
+
+* [Videopac Tech Info](https://home.kpn.nl/rene_g7400/vp_info.html) - Hardware and programming information for the Philips Videopac.
+
+* [AtariAge Odyssey 2 Programming Thread](https://forums.atariage.com/topic/130697-odyssey-2-programming/) - Starting point for programming the Intel 8048 and 8244 VDC.
+
 ### Intellivision
 
 * [jsintv](http://spatula-city.org/~im14u2c/intv/) - Portable Intellivision emulator and programming tools
@@ -133,6 +148,14 @@ and
   
 * [NESFab](https://pubby.games/nesfab.html) - A NES-specific programming language with advanced 6502 optimizations and automatic bank placement.
 
+### Atari 5200
+
+* [Dan B's Atari 5200 Page](http://www.atarihq.com/danb/a5200.shtml) - System specs, technical documentation, and links.
+
+* [Atari 5200 Programmers](https://atariage.com/programmer_list.php?SystemID=5200) - AtariAge's list of 5200 programmers and games.
+
+* The 5200 shares ANTIC, GTIA, and POKEY with the [Atari 8-bit](#atari-8-bit) computers, so those references apply too.
+
 ### Atari 7800
 
 * [Atari 7800 (Dan Boris)](https://atarihq.com/danb/a7800.shtml) - System Specs, Cartridge Information, Links, The 'Encryption' Issue, Technical Files, and more.
@@ -149,6 +172,30 @@ and
 [Technical info](http://www.smspower.org/uploads/Development/richard.txt), 
 [VDP info](http://www.smspower.org/uploads/Development/msvdp-20021112.txt),
 [SN76489 sound chip info](http://www.smspower.org/uploads/Development/SN76489-20030421.txt)
+
+* [devkitSMS](https://github.com/sverx/devkitSMS) - C libraries and tools for SDCC targeting the Master System, Game Gear, SG-1000, SC-3000, and ColecoVision.
+
+### Game Boy
+
+* [Pan Docs](https://gbdev.io/pandocs/) - The most comprehensive Game Boy technical reference.
+
+* [GB Dev](https://gbdev.io/) - Community hub with [awesome-gbdev](https://github.com/gbdev/awesome-gbdev), [RGBDS](https://rgbds.gbdev.io/), a [GB ASM Tutorial](https://gbdev.io/gb-asm-tutorial/), and the [Homebrew Hub](https://hh.gbdev.io) game archive.
+
+* [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) - C compiler, libraries, and tools for the Game Boy, Game Boy Color, Master System, Game Gear, and NES.
+
+### PC Engine
+
+* [pce-dev-kit](https://github.com/langel/pce-dev-kit/) - PC Engine / TurboGrafx-16 development archive of documentation, tools, and examples.
+
+* [HuC-Next](https://github.com/alx5962/hucnext) - HuC C compiler and PCEAS assembler for the HuC6280, packaged with a visual game maker.
+
+### Atari Lynx
+
+* [Atari Lynx Programming Tutorial](https://github.com/AtariLynx/programming-tutorial) - Tutorial series using the cc65 toolchain.
+
+* [Atari Lynx Dev Wiki](https://atarilynxdev.net/doku.php/lynx:compilers) - Compilers and other development information.
+
+* [AtariAge Lynx Programming Forum](https://forums.atariage.com/forum/53-atari-lynx-programming/)
 
 ## Home Computers
 
@@ -200,6 +247,20 @@ and
 
 * [Acorn Atom Technical Manual](http://chrisacorns.computinghistory.org.uk/docs/Acorn/Manuals/Acorn_AtomTechnicalManual.pdf) (PDF)
 
+### Oric
+
+* [Oric Software Development Kit](https://github.com/Oric-Software-Development-Kit/osdk) - Cross-development tools for the Oric, including a C compiler, assembler, linker, and disk and tape utilities.
+
+* [Defence Force Oric Library](https://library.defence-force.org) - Manuals, schematics, and other documentation for the Oric line.
+
+### TRS-80 CoCo and Dragon
+
+* [Platform Guide: TRS-80 Color Computer/Dragon](https://bumbershootsoft.wordpress.com/platform-guide-trs-80-color-computer-dragon/) - Overview of the hardware, tools, and documentation.
+
+* [XRoar](https://www.6809.org.uk/xroar/) - Emulator for the Dragon 32/64, Tandy Color Computers 1-3, and the MC-10.
+
+* [ChibiAkumas 6809 Tutorials](https://www.chibiakumas.com/6809/) - 6809 assembly lessons for the Dragon/CoCo, Fujitsu FM-7, and Vectrex.
+
 ### Sinclair
 
 * [World of Spectrum](http://www.worldofspectrum.org/) - The official world archive for the Sinclair ZX Spectrum and the largest on-line gaming center on the Internet (*Yup, I think the site's great - Cliff Lawson*)
@@ -211,6 +272,8 @@ and
 ### Commodore 64
 
 * [C64 Wiki](https://www.c64-wiki.com/wiki/C64)
+
+* [Codebase64](https://codebase64.net/) - Wiki of C64 programming articles, source code, and hardware documentation.
 
 * [C64 Programmer's Reference Guide](http://www.zimmers.net/cbmpics/cbm/c64/c64prg.txt)
 
@@ -296,6 +359,10 @@ and
 
 * [fpga-examples](https://github.com/sehugg/fpga-examples) - These are some of the Verilog examples from the book "Designing Video Game Hardware in Verilog" ported to CRT monitor timing and tested against the IceStorm tools.
 
+* [Silice](https://github.com/sylefeb/Silice) - A language for designing FPGA hardware, with retro game and video examples.
+
+* [Verilator](https://www.veripool.org/wiki/verilator) - Fast open-source Verilog simulator, used by 8bitworkshop for hardware simulation.
+
 ### Microcontrollers
 
 * [Uzebox](https://uzebox.org/) - An open-source micro game platform based on the ATmega644 chip.
@@ -318,6 +385,20 @@ Targets over 80 different machine families.
 
 * [LLVM-MOS SDK](https://github.com/llvm-mos/llvm-mos-sdk) - A clang-based compiler/SDK for 6502 systems.
 
+* [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020) - C compiler, libraries, and tools for sm83, Z80, and 6502 consoles including the Game Boy, Game Gear, and NES.
+
+* [devkitSMS](https://github.com/sverx/devkitSMS) - SDCC-based libraries and tools for Sega 8-bit systems and ColecoVision.
+
+* [Mad Pascal](https://github.com/tebe6502/Mad-Pascal) - A 32-bit Turbo Pascal-style compiler for the Atari 8-bit, C64, and other 6502 systems.
+
+* [ZX Basic](https://github.com/boriel-basic/zxbasic) - A BASIC compiler for the ZX Spectrum that generates Z80 code.
+
+* [Oscar64](https://github.com/drmortalwombat/oscar64/) - A C/C++ compiler for the C64 and other 6502 systems.
+
+* [FastBasic](https://github.com/dmsc/fastbasic) - A fast BASIC interpreter and cross-compiler for the Atari 8-bit.
+
+* [Wiz](https://github.com/wiz-lang/wiz) - A high-level assembly language for the 6502, Z80, SM83, 65816, and other CPUs.
+
 ### Assemblers
 
 * [DASM](https://dasm-assembler.github.io/) - a versatile macro assembler with support for several 8-bit microprocessors including MOS 6502 & 6507, Motorola 6803, 68705 & 68HC11, Hitachi HD6303 (extended Motorola 6801), and Fairchild F8. Used most often for Atari 2600 development.
@@ -327,6 +408,20 @@ Targets over 80 different machine families.
 * [ASM6](https://github.com/freem/asm6f) - 6502 assembler primarily targeted at NES/Famicom development.
 
 * [zmac](https://github.com/sehugg/zmac) - Macro cross-assembler for the Zilog Z80 microprocessor, sometimes used for Astrocade development.
+
+* [Kick Assembler](http://theweb.dk/KickAssembler/) - A Java-based 6502/6510 assembler for the C64 with macros, scripting, and graphics conversion helpers.
+
+* [MADS](https://github.com/tebe6502/Mad-Assembler) - A multi-pass 6502/65816 cross-assembler used mostly for Atari 8-bit development.
+
+* [ACME](https://github.com/sehugg/acme) - A 6502/65C02/65816 cross-assembler popular for C64 development.
+
+* [xa](https://www.floodgap.com/retrotech/xa/) - A 6502/65C02/65816 cross-assembler.
+
+* [Merlin32](https://github.com/apple2accumulator/merlin32) - A 65xx cross-assembler compatible with Merlin syntax for the Apple II and IIgs.
+
+* [vasm](https://github.com/mbitsnbites/vasm-mirror) - A portable multi-CPU assembler with 6502, Z80, and 6809 support.
+
+* [naken_asm](https://github.com/mikeakohn/naken_asm) - An assembler and disassembler for many CPUs and microcontrollers.
 
 ### Emulators
 
@@ -348,9 +443,17 @@ Targets over 80 different machine families.
 
 * [Altirra](http://www.virtualdub.org/altirra.html) - Atari 8-bit family emulator, includes compatible open-source ROM.
 
+* [JSSpeccy 2](https://github.com/gasman/jsspeccy2) - ZX Spectrum emulator in JavaScript.
+
+* [jspce](https://github.com/yhzmr442/jspce) - PC Engine emulator in JavaScript.
+
+* [XRoar](https://www.6809.org.uk/xroar/) - Emulator for the Dragon, Tandy CoCo, and MC-10.
+
 ### IDEs
 
 * [8bitworkshop](https://8bitworkshop.com/) - An online batteries-included IDE targeting home consoles, home computers, arcade games, and Verilog hardware design.
+
+* [8bitworkshop for VS Code](https://marketplace.visualstudio.com/items?itemName=8bitworkshop.8bitworkshop) - The 8bitworkshop IDE as a VS Code extension, with bundled toolchains, emulators, and a debugger.
 
 * [WUDSN](http://www.wudsn.com/index.php/ide) - a free integrated Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64 and NES development plugin for Eclipse
 
@@ -369,6 +472,16 @@ Targets over 80 different machine families.
 * [mcDRAW](https://mcdraw.xyz/) - Cool online bitmap editor for C-64.
 
 * [retropixels](https://www.npmjs.com/package/retropixels) - A command-line tool and library that converts to C-64 format.
+
+* [Tiled](https://www.mapeditor.org/) - A free and flexible tile map and level editor.
+
+### Music and Sound
+
+* [Furnace](https://github.com/tildearrow/furnace) - A multi-system chiptune tracker supporting over 50 sound chips and DefleMask modules.
+
+* [GoatTracker 2](https://sourceforge.net/projects/goattracker2/) - A C64 SID music tracker.
+
+* [vgm2vgr3](https://github.com/8bitws/vgm2vgr3) - Compresses VGM chiptune files into a compact register format with 6502 and Z80 decoders, for the NES, Game Boy, ColecoVision, C64, Atari POKEY, and MSX.
 
 ### Libraries
 
